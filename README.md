@@ -1,21 +1,24 @@
-# M.A.R.S and Project Boost 2D
+# M.A.R.S
 
 **Help the rocket safely explore the unexplored depths of caves on Mars**
 
 The controls:
-1. Use the "SpaceBar" key to thrust the Rocket in the direction
-2. Use the 'A' and 'D' keys to change the direction of the Rocket
+This game is mad using Unity's New input system. This allows the player to choose any kind of input device like keyboard, Cotroller or touch.
+1. Use the "Thrust" key to thrust the Rocket in the direction
+2. Use the 'Left' and 'Right' keys to change the direction of the Rocket
 
-There are two versions of this game. One is 2-Dimensional while the other one, M.A.R.S is 3-Dimensional
+## VERSIONS
 
-## M.A.R.S
-### Features of The 3-Dimensional version:
-1. Many levels to play
-2. Polished animations and gameplay
-3. Added audio
-4. Visually interesting with fog and varied environments
-5. Some surprising twists in the later stages
-6. *not-so-super-secret* secret debug keys ;)
+### M.A.R.S Prototype
+*(Uploaded on 06/11/24)*
+
+### Key Features
+1. The game is made using URP (Universal Render pipeline). My first time using it.
+2. Added Custom Terrain and Spaceship Models
+3. Levels and Platforms based progression. Die in between the platforms and the Level starts from the beginning. Level is like a checkpoint where you respawn from.
+4. Added Cameras that frame the action and platforms properly.
+5. Creatively placed lights to guide the player
+6. First time working on shaders. Created a cartoon water shader.
 
 ### SCREENSHOTS
 
@@ -25,29 +28,12 @@ There are two versions of this game. One is 2-Dimensional while the other one, M
 
 ![Flashlight level](https://github.com/pervelaHemanth23/Project-Boost/blob/main/M.A.R.S/Screenshots/3.png)
 
-## Project Boost
-### Features of The 2-Dimensional version:
-1. Interactive Menu with animations
-2. The rocket MUST land upright on the ending platform or it will get destroyed
-3. Animated loading screens
-
-### SCREENSHOTS
-
-![Menu Screen](https://github.com/pervelaHemanth23/Project-Boost/blob/main/Project%20Boost%202D/Screenshots/1.png)
-
-![Loading Screen](https://github.com/pervelaHemanth23/Project-Boost/blob/main/Project%20Boost%202D/Screenshots/2.png)
-
-![Level 1](https://github.com/pervelaHemanth23/Project-Boost/blob/main/Project%20Boost%202D/Screenshots/3.png)
-
-![Explosion!](https://github.com/pervelaHemanth23/Project-Boost/blob/main/Project%20Boost%202D/Screenshots/4.png)
-
-
 ## Thank You!
 
-**DEBUG KEYS FOR M.A.R.S**
-1. Press "C" to turn off collisions of the rocket
-2. Press "L" to load the next level
+**SUPER SECRET DEBUG KEY**
+You can skip a level if you think its too tough! 
+*P.S: Intended only for the Developer lol*
 
-### DOWNLOAD LINKS
+### DOWNLOADING THE APK
 
-[Download Repo (57 MB)](https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip) 
+There are 2 versions available in the Repo. One is on Low settings while the other is on Ultra. Feel free to try both and test the performance
