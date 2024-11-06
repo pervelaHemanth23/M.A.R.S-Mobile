@@ -22,11 +22,7 @@ This game is mad using Unity's New input system. This allows the player to choos
 
 ### SCREENSHOTS
 
-![First Level](https://github.com/pervelaHemanth23/Project-Boost/blob/main/M.A.R.S/Screenshots/1.png)
-
-![Explosion!](https://github.com/pervelaHemanth23/Project-Boost/blob/main/M.A.R.S/Screenshots/2.png)
-
-![Flashlight level](https://github.com/pervelaHemanth23/Project-Boost/blob/main/M.A.R.S/Screenshots/3.png)
+*Will add later*
 
 ## Thank You!
 
