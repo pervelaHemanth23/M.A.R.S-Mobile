@@ -34,7 +34,7 @@ This game is made using Unity's New input system. This allows the player to choo
 
 ## Thank You!
 
-**SUPER SECRET DEBUG KEY**
+*SUPER SECRET DEBUG KEY*
 You can skip a level if you think its too tough! 
 *P.S: Intended only for the Developer lol*
 
