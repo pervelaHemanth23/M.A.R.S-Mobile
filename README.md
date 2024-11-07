@@ -22,7 +22,15 @@ This game is mad using Unity's New input system. This allows the player to choos
 
 ### SCREENSHOTS
 
-*Will add later*
+![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Main%20Menu.png)
+
+![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Options%20Screen.png)
+
+![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Game.png)
+
+![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Game%20Over%20Screen.png)
+
+![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/High%20Scores%20Screen.png)
 
 ## Thank You!
 
