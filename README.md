@@ -22,15 +22,13 @@ This game is mad using Unity's New input system. This allows the player to choos
 
 ### SCREENSHOTS
 
-![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Main%20Menu.png)
+![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/1.jpg)
 
-![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Options%20Screen.png)
+![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/2.jpg)
 
-![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Game.png)
+![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/3.jpg)
 
-![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Game%20Over%20Screen.png)
-
-![Level](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/High%20Scores%20Screen.png)
+![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/4.jpg)
 
 ## Thank You!
 
