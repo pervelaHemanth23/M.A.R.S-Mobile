@@ -1,9 +1,9 @@
 # M.A.R.S
 
-**Help the rocket safely explore the unexplored depths of caves on Mars**
+**Help the rocket safely explore the unexplored depths of Mars**
 
 The controls:
-This game is mad using Unity's New input system. This allows the player to choose any kind of input device like keyboard, Cotroller or touch.
+This game is made using Unity's New input system. This allows the player to choose any kind of input device like keyboard, Cotroller or touch.
 1. Use the "Thrust" key to thrust the Rocket in the direction
 2. Use the 'Left' and 'Right' keys to change the direction of the Rocket
 
@@ -19,6 +19,8 @@ This game is mad using Unity's New input system. This allows the player to choos
 4. Added Cameras that frame the action and platforms properly.
 5. Creatively placed lights to guide the player
 6. First time working on shaders. Created a cartoon water shader.
+7. Added an external skybox and fog.
+8. Experimented with post-processing effects like Depth of Field, ACES Lighting and different colouration
 
 ### SCREENSHOTS
 
